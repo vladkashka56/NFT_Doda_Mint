@@ -1,0 +1,39 @@
+{
+  "name": "#1",
+  "description": "Created By Rogue Rabbits Rabble ",
+  "image": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Moon"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Almond Retnian"
+    },
+    {
+      "trait_type": "Costume",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Side Fringes"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Rounded"
+    },
+    {
+      "trait_type": "Mouth Elements",
+      "value": "Cigar"
+    }
+  ]
+}
